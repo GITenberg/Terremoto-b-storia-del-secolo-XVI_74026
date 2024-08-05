@@ -1,0 +1,37 @@
+_repo: Terremoto-b-storia-del-secolo-XVI_74026
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bettòli, Parmenio
+    aliases:
+    - Bettoli, Parmenio
+    - Italicus
+    birthdate: 1835
+    deathdate: 1907
+    gutenberg_agent_id: '57314'
+    url: http://www.gutenberg.org/2009/agents/57314
+    wikipedia: https://it.wikipedia.org/wiki/Parmenio_Bettoli
+description: ''
+gutenberg_issued: '2024-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74026'
+language: it
+pgterms:marc904: https://books.google.it/books?id=BNYqDgYk4FQC
+pgterms:marc905: 20230408082709bettoli
+pgterms:marc906: '1878'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aMilano :$bGalli e Omodei, $c1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Italian fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'Terremoto : $b storia del secolo XVI'
+url: http://www.gutenberg.org/ebooks/74026
